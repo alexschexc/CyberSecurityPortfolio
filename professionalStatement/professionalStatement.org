@@ -1,3 +1,6 @@
 #+Title: Professional Statement
 #+Author: Alex Schexnayder
 
+* Statement:
+
+My name is Alex. I am driven by the desire to protect people, and help organizations improve their ability to protect their people. I enjoy diagnosing problems, and communicating about potential solutions to those problems with people that are in positions to fix those problems.
